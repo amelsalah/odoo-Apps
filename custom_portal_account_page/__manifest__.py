@@ -23,6 +23,10 @@
         'views/templates.xml',
 
     ],
+     'images': [
+        'static/description/screenshot.png',
+     
+    ],
 
 
 }
