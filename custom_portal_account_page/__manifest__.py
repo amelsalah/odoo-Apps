@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "custom_portal_account_page",
+    'name': "Change Portal MyAccount Page Layout",
 
     'summary': """
         This Module change Portal Account page design with changing profile picture feature.
