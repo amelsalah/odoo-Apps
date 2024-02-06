@@ -17,7 +17,7 @@
     'version': '0.1',
     'price' : 50,
     'currency' : 'EUR',
-     'license': 'LGPL-3',
+     'license': 'OPL-1',
     # any module necessary for this one to work correctly
     'depends': ['base' ],
      'images': ['debrand_user_menu/static/description/1.png'],
