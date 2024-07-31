@@ -15,7 +15,7 @@
 
   
     'version':  '16.0.1.0.0',
-    'category': 'Tools',',
+    'category': 'Tools',
     'price' : 25,
     'currency' : 'EUR',
      'license': 'LGPL-3',
