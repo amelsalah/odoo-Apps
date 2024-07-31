@@ -14,8 +14,8 @@
     'author': "Amel Salah",
 
     'category': 'Customizations',
-    'version': '0.1',
-    'price' : 50,
+    'version': '16.0',
+    'price' : 25,
     'currency' : 'EUR',
      'license': 'OPL-1',
     # any module necessary for this one to work correctly
