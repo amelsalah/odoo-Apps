@@ -13,11 +13,12 @@
 
     'author': "Amel Salah",
 
-    'category': 'Customizations',
-    'version': '16.0',
+  
+    'version':  '16.0.1.0.0',
+    'category': 'Tools',',
     'price' : 25,
     'currency' : 'EUR',
-     'license': 'OPL-1',
+     'license': 'LGPL-3',
     # any module necessary for this one to work correctly
     'depends': ['base' ],
      'images': ['debrand_user_menu/static/description/1.png'],
