@@ -29,10 +29,10 @@
         # 'views/template.xml',
  
     ], 
-
+  'installable': True,
+    'application': True,
      'assets': {
         'web.assets_backend': [
             'debrand_user_menu/static/src/js/menu.js']}
-    
 
 }
