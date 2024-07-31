@@ -14,7 +14,7 @@
     'author': "Amel Salah",
 
   
-    'version':  '16.0.1.0.0',
+    'version':  '16.0',
     'category': 'Tools',
     'price' : 25,
     'currency' : 'EUR',
