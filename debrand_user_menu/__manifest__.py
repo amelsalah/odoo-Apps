@@ -13,9 +13,11 @@
 
     'author': "Amel Salah",
 
+
   
     'version':  '16.0',
     'category': 'Tools',
+
     'price' : 25,
     'currency' : 'EUR',
      'license': 'LGPL-3',
