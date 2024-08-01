@@ -13,11 +13,14 @@
 
     'author': "Amel Salah",
 
-    'category': 'Customizations',
-    'version': '16.1',
+
+  
+    'version':  '16.0',
+    'category': 'Tools',
+
     'price' : 25,
     'currency' : 'EUR',
-     'license': 'OPL-1',
+     'license': 'LGPL-3',
     # any module necessary for this one to work correctly
     'depends': ['base' ],
      'images': ['debrand_user_menu/static/description/1.png'],
@@ -28,10 +31,10 @@
         # 'views/template.xml',
  
     ], 
-
+  'installable': True,
+    'application': True,
      'assets': {
         'web.assets_backend': [
             'debrand_user_menu/static/src/js/menu.js']}
-    
 
 }
